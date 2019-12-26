@@ -1,0 +1,10 @@
+*.DS_Store
+
+/examples/
+/labs/
+/lectureCode/
+/lectures/
+/Notes/
+sftp-config.json
+/test/
+/Thoth/
